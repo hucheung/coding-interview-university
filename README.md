@@ -925,7 +925,7 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [ ] visitor
         - [ ] factory, abstract factory
         - [X] facade	//Encapsulation. think about the example of microwave, which user does not need to know the complicated inner parts
-        - [X] observer	//pub-sub mechanism
+        - [X] observer	//pub-sub mechanism 
         - [X] proxy		//provide a lightweight proxy version of certain heavyweight object in order to avoid loading overhead
         - [X] delegate
         - [ ] command
