@@ -918,14 +918,14 @@ Graphs can be used to represent many problems in computer science, so this secti
     - [ ] Learn these patterns:
         - [X] abstraction-occurance     
         - [ ] strategy
-        - [ ] singleton
+        - [X] singleton
         - [ ] adapter
         - [ ] prototype
         - [ ] decorator
         - [ ] visitor
         - [ ] factory, abstract factory
         - [ ] facade
-        - [ ] observer
+        - [X] observer
         - [ ] proxy
         - [ ] delegate
         - [ ] command
