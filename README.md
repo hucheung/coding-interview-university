@@ -927,7 +927,7 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [ ] facade
         - [X] observer
         - [ ] proxy
-        - [ ] delegate
+        - [X] delegate
         - [ ] command
         - [ ] state
         - [ ] memento
