@@ -917,7 +917,7 @@ Graphs can be used to represent many problems in computer science, so this secti
     - [X] [Quick UML review (video)](https://www.youtube.com/watch?v=3cmzqZzwNDM&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc&index=3)
     - [ ] Learn these patterns:
         - [X] abstraction-occurance //avoid duplication; separate the abstract and actual occurance    
-        - [ ] strategy
+        - [X] strategy
         - [X] singleton	//single instance
         - [X] adapter	//similar to a wrapper 
         - [ ] prototype
