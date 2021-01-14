@@ -928,7 +928,7 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [X] observer	//pub-sub mechanism 
         - [X] proxy		//provide a lightweight proxy version of certain heavyweight object in order to avoid loading overhead
         - [X] delegate
-        - [ ] command
+        - [X] command   /* https://jsmanifest.com/command-design-pattern-in-javascript/ */
         - [ ] state
         - [ ] memento
         - [ ] iterator
