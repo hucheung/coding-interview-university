@@ -917,13 +917,13 @@ Graphs can be used to represent many problems in computer science, so this secti
     - [X] [Quick UML review (video)](https://www.youtube.com/watch?v=3cmzqZzwNDM&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc&index=3)
     - [ ] Learn these patterns:
         - [X] abstraction-occurance //avoid duplication; separate the abstract and actual occurance    
-        - [X] strategy  //be aware of multiple similar switch cases
+        - [X] strategy  //determine what actions a class or obejct does in runtime, be aware of multiple similar switch cases
         - [X] singleton	//single instance
-        - [X] adapter	//similar to a wrapper 
+        - [X] adapter	//similar to a wrapper that extract certain class in order to be used
         - [ ] prototype
         - [ ] decorator
         - [ ] visitor
-        - [ ] factory, abstract factory
+        - [X] factory, abstract factory //determine what class or object to be created
         - [X] facade	//Encapsulation. think about the example of microwave, which user does not need to know the complicated inner parts
         - [X] observer	//pub-sub mechanism 
         - [X] proxy		//provide a lightweight proxy version of certain heavyweight object in order to avoid loading overhead
