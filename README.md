@@ -927,8 +927,10 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [X] facade	//Encapsulation. think about the example of microwave, which user does not need to know the complicated inner parts
         - [X] observer	//pub-sub mechanism 
         - [X] proxy		//provide a lightweight proxy version of certain heavyweight object in order to avoid loading overhead
-        - [X] delegate
-        - [X] command   /* https://jsmanifest.com/command-design-pattern-in-javascript/ */
+        - [X] delegate	
+        - [X] command   /* https://jsmanifest.com/command-design-pattern-in-javascript/ 
+                        note that we can also implement undo / reset operations
+                        */
         - [ ] state
         - [ ] memento
         - [ ] iterator
